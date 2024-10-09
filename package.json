@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "",
+  "homepage": "https://sergeybildanov.github.io/dropdown/",
   "scripts": {
     "predeploy": "yarn build",
     "deploy": "gh-pages -d dist",
